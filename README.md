@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Hi, I'm Abinand 👋  
 
-I'm a former software developer with a background in web applications and a bit of game programming, now transitioning into **data analytics**.  
-I later moved into a **business analyst role**, where I worked closely with data to support decision-making. This experience sharpened my skills in **requirements gathering, documentation, and analysis**, and gave me perspective on how data is used to drive business outcomes.
+I'm a former software developer with a background in web applications and a bit of game programming, now transitioning into **data analytics**.  I later moved into a **business analyst role**, where I worked closely with data to support decision-making. This experience sharpened my skills in **requirements gathering, documentation, and analysis**, and gave me perspective on how data is used to drive business outcomes.
+
 My GitHub started as a collection of programming projects from my software engineering days, but going forward it will showcase my journey in analytics—covering **data wrangling, visualization, and statistical analysis**.  
 
 💡 **What I bring:**  
 - Strong foundation in **problem-solving, algorithms, and programming** from my development background  
-- A growing focus on **data-driven decision making**, with interest in supply chain logistics, payment processing, and education domains  
+- A growing focus on **data-driven decision making**, tied to my background and interests in E-commerce, Payments, Supply Chain, Games and Education.  
 - Passion for **working with data, math, code, and text** to uncover insights  
 
 📂 **What you'll find here:**  
