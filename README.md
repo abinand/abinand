@@ -19,16 +19,14 @@ I'm a former software developer with a background in web applications and a bit 
 
 My GitHub started as a collection of programming projects from my software engineering days, but going forward it will showcase my journey in analytics—covering **data wrangling, visualization, and statistical analysis**.  
 
-💡 **What I bring:**  
+**What I bring:**  
 - Strong foundation in **problem-solving, algorithms, and programming** from my development background  
 - A growing focus on **data-driven decision making**, tied to my background and interests in E-commerce, Payments, Supply Chain, Games and Education.  
 - Passion for **working with data, math, code, and text** to uncover insights  
 
-📂 **What you'll find here:**  
+**What you'll find here:**  
 - Past projects in **game programming and software development**  
 - Ongoing and future projects in **data analysis and visualization** using Python, SQL, and modern analytics tools  
-
-I’m building this portfolio to demonstrate my skills to future employers and collaborators as I move deeper into the world of **data analytics**.  
 
 I see this space as both a **portfolio** and a **learning log** — a place where I can demonstrate my skills, track my growth, and share my work with others.  
 
